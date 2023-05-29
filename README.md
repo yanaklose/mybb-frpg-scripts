@@ -1,6 +1,14 @@
 # Mybb FRPG Scripts
 A collection of scripts written for a text-based role-playing game on a mybb-powered forum. (The theme was Star Wars, by the way!)
 
+## List of scripts
+
+### Utils
+
+* [Set body class](/utils/setBodyClass)
+* [Popup](/utils/popup)
+* [Add button to form](/utils/addButtonToForm)
+
 ## Why?
 I used to admin a role-playing forum. It was created on a free mybb-powered platform. The platform severely limited access to the code base (for obvious reasons), so one couldn't change almost any of the HTML. However, it was possible to change CSS and add your own scripts.
 
